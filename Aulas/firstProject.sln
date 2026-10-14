@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Completo_Udemy", "CSharp_Completo_Udemy\CSharp_Completo_Udemy.csproj", "{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "topicos_especiais", "topicos_especiais\topicos_especiais.csproj", "{1B0C7D30-9628-4509-996F-FA8FBAC2C00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes_Composicao", "Enumeracoes_Composicao\Enumeracoes_Composicao.csproj", "{4ADCFE35-CDF7-4C45-8062-8A3B4BF236A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,7 +31,15 @@ Global
 		{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}.Release|Any CPU.Build.0 = Release|Any CPUEndGlobalSection
+		{C5205F5B-5EB5-4655-8D8C-82C3A6430DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0C7D30-9628-4509-996F-FA8FBAC2C00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0C7D30-9628-4509-996F-FA8FBAC2C00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0C7D30-9628-4509-996F-FA8FBAC2C00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0C7D30-9628-4509-996F-FA8FBAC2C00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADCFE35-CDF7-4C45-8062-8A3B4BF236A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADCFE35-CDF7-4C45-8062-8A3B4BF236A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADCFE35-CDF7-4C45-8062-8A3B4BF236A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADCFE35-CDF7-4C45-8062-8A3B4BF236A7}.Release|Any CPU.Build.0 = Release|Any CPUEndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
